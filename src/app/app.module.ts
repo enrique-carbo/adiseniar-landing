@@ -9,6 +9,8 @@ import { HomeComponent } from './pages/home/home.component';
 import { DisenoComponent } from './pages/diseno/diseno.component';
 import { WebComponent } from './pages/web/web.component';
 import { PortfolioComponent } from './pages/portfolio/portfolio.component';
+import { ContactComponent } from './pages/contact/contact.component';
+import { Page404Component } from './pages/page404/page404.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +20,9 @@ import { PortfolioComponent } from './pages/portfolio/portfolio.component';
     HomeComponent,
     DisenoComponent,
     WebComponent,
-    PortfolioComponent
+    PortfolioComponent,
+    ContactComponent,
+    Page404Component
   ],
   imports: [
     BrowserModule,

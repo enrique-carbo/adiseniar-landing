@@ -1,5 +1,5 @@
 .navbar-link {
-    @apply text-xl duration-300 font-mono border-b-4 border-blue-300;
+    @apply text-xl md:text-base duration-300 font-mono border-b-4 border-blue-300;
 } 
 
 .navbar-link:hover {
