@@ -9,12 +9,11 @@ import { WebComponent } from './pages/web/web.component';
 
 
 const routes: Routes = [
-  { path: 'home', component: HomeComponent, title: 'ADiseniar - Inicio' },
+  { path: '', component: HomeComponent, title: 'ADiseniar - Inicio' },
   { path: 'diseno', component: DisenoComponent, title: 'ADiseniar - Logos' },
   { path: 'web', component: WebComponent, title: 'ADiseniar - Web' },
   { path: 'portfolio', component: PortfolioComponent, title: 'ADiseniar - Portfolio' },
   { path: 'contact', component: ContactComponent, title: 'ADiseniar - Contacto' },
-  { path: '',   redirectTo: '/home', pathMatch: 'full' }, 
   { path: '**', component: Page404Component, title: 'Error 404' }, 
 ];
 
