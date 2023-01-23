@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 -6 32 32"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="menu-1.svg"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.065"
+     inkscape:cx="357.74648"
+     inkscape:cy="400"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="menu_1" />
+  <g
+     id="menu_1"
+     transform="translate(-124 -6)">
+    <line
+       id="Line_89"
+       data-name="Line 89"
+       x2="30"
+       transform="translate(125 7)"
+       fill="none"
+       stroke="#498efc"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2" />
+    <line
+       id="Line_90"
+       data-name="Line 90"
+       x2="30"
+       transform="translate(125 25)"
+       fill="none"
+       stroke="#498efc"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2" />
+    <line
+       id="Line_91"
+       data-name="Line 91"
+       x2="20"
+       transform="translate(130 16)"
+       fill="none"
+       stroke="#f1d17c"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       style="fill:#aa0000;stroke:#aa0000" />
+  </g>
+</svg>
